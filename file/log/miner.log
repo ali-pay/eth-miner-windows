@@ -1,0 +1,99 @@
+
+
+ethminer 0.18.0
+Build: windows/release/msvc
+
+ i 16:06:32 main     Configured pool 127.0.0.1:8545
+ i 16:06:32 <unknown> Selected pool 127.0.0.1:8545
+ i 16:06:32 <unknown> Established connection to 127.0.0.1:8545
+ i 16:06:32 <unknown> Spinning up miners...
+cl 16:06:32 cl-0     Using PciId : 01:00.0 GeForce GTX 1050 Ti (Compute 6.1) Memory : 4.00 GB
+ i 16:06:32 <unknown> Epoch : 0 Difficulty : 893.60 Kh
+ i 16:06:32 <unknown> Job: 1f08f9f8... 127.0.0.1:8545
+cl 16:06:33 cl-0     Generating DAG + Light : 1.02 GB
+cl 16:06:33 cl-0     OpenCL kernel
+cl 16:06:33 cl-0     Creating light cache buffer, size: 16.00 MB
+cl 16:06:33 cl-0     Creating DAG buffer, size: 1024.00 MB, free: 2.98 GB
+cl 16:06:33 cl-0     Loading kernels
+cl 16:06:33 cl-0     Writing light cache buffer
+cl 16:06:33 cl-0     Creating buffer for header.
+cl 16:06:33 cl-0     Creating mining buffer
+ m 16:06:37 <unknown> 0:00 A0 0.00 h - cl0 0.00
+ m 16:06:42 <unknown> 0:00 A0 0.00 h - cl0 0.00
+cl 16:06:44 cl-0     1024.00 MB of DAG data generated in 10,613 ms.
+cl 16:07:01 cl-0     Job: f8dc0e7f... Sol: 0xe2aad3abfb613ca3
+ i 16:07:01 <unknown> **Accepted   0 ms. 127.0.0.1:8545
+cl 16:07:01 cl-0     Job: f8dc0e7f... Sol: 0xe2aad3abfbe21f0f
+ i 16:07:01 <unknown> **Accepted   0 ms. 127.0.0.1:8545
+cl 16:07:01 cl-0     Job: f8dc0e7f... Sol: 0xe2aad3abfc60acaf
+ i 16:07:01 <unknown> **Accepted   0 ms. 127.0.0.1:8545
+cl 16:07:01 cl-0     Job: f8dc0e7f... Sol: 0xe2aad3abfcd9dea8
+ i 16:07:01 <unknown> **Accepted   0 ms. 127.0.0.1:8545
+cl 16:07:01 cl-0     Job: f8dc0e7f... Sol: 0xe2aad3abfd5bba61
+ i 16:07:01 <unknown> **Accepted   0 ms. 127.0.0.1:8545
+cl 16:07:01 cl-0     Job: f8dc0e7f... Sol: 0xe2aad3abfdf82f8c
+ i 16:07:01 <unknown> **Accepted   0 ms. 127.0.0.1:8545
+cl 16:07:02 cl-0     Job: f8dc0e7f... Sol: 0xe2aad3abfe589d47
+ i 16:07:02 <unknown> **Accepted   0 ms. 127.0.0.1:8545
+cl 16:07:02 cl-0     Job: f8dc0e7f... Sol: 0xe2aad3abfeea1f10
+ i 16:07:02 <unknown> **Accepted   0 ms. 127.0.0.1:8545
+cl 16:07:02 cl-0     Job: f8dc0e7f... Sol: 0xe2aad3abff6bb786
+ i 16:07:02 <unknown> **Accepted   0 ms. 127.0.0.1:8545
+ m 16:07:02 <unknown> 0:00 A187:R24 10.91 Mh - cl0 10.91
+cl 16:07:03 cl-0     Job: f8dc0e7f... Sol: 0xe2aad3ac0869d37d
+ X 16:07:03 <unknown> **Rejected   0 ms. 127.0.0.1:8545
+cl 16:07:03 cl-0     Job: f8dc0e7f... Sol: 0xe2aad3ac08d506e3
+ X 16:07:03 <unknown> **Rejected   0 ms. 127.0.0.1:8545
+cl 16:07:03 cl-0     Job: f8dc0e7f... Sol: 0xe2aad3ac0959e39f
+ X 16:07:03 <unknown> **Rejected   0 ms. 127.0.0.1:8545
+ i 16:07:03 <unknown> Epoch : 0 Difficulty : 973.56 Kh
+ i 16:07:03 <unknown> Job: ea825b42... 127.0.0.1:8545
+cl 16:07:03 cl-0     Job: f8dc0e7f... Sol: 0xe2aad3ac09e5bb54
+ X 16:07:03 <unknown> **Rejected   0 ms. 127.0.0.1:8545
+cl 16:07:04 cl-0     Job: ea825b42... Sol: 0xe2aad3abf7735acc
+ i 16:07:04 <unknown> **Accepted   0 ms. 127.0.0.1:8545
+cl 16:07:04 cl-0     Job: ea825b42... Sol: 0xe2aad3abf7f99ba8
+ i 16:07:04 <unknown> **Accepted   0 ms. 127.0.0.1:8545
+cl 16:07:04 cl-0     Job: ea825b42... Sol: 0xe2aad3abf8561443
+ i 16:07:04 <unknown> **Accepted   0 ms. 127.0.0.1:8545
+cl 16:07:04 cl-0     Job: ea825b42... Sol: 0xe2aad3abf8d522ce
+ i 16:07:04 <unknown> **Accepted   0 ms. 127.0.0.1:8545
+ i 16:07:04 <unknown> Epoch : 0 Difficulty : 974.03 Kh
+ i 16:07:04 <unknown> Job: 76bc75c2... 127.0.0.1:8545
+cl 16:07:04 cl-0     Job: ea825b42... Sol: 0xe2aad3abf95b4d7a
+ i 16:07:04 <unknown> **Accepted   0 ms. 127.0.0.1:8545
+cl 16:07:04 cl-0     Job: 76bc75c2... Sol: 0xe2aad3abf76a756d
+ i 16:07:04 <unknown> **Accepted   0 ms. 127.0.0.1:8545
+cl 16:07:04 cl-0     Job: 76bc75c2... Sol: 0xe2aad3abf7d71a5b
+ i 16:07:04 <unknown> **Accepted   0 ms. 127.0.0.1:8545
+cl 16:07:04 cl-0     Job: 76bc75c2... Sol: 0xe2aad3abf85397ec
+ i 16:07:04 <unknown> **Accepted   0 ms. 127.0.0.1:8545
+cl 16:07:04 cl-0     Job: 76bc75c2... Sol: 0xe2aad3abf902b882
+ i 16:07:04 <unknown> **Accepted   0 ms. 127.0.0.1:8545
+ i 16:07:04 <unknown> Epoch : 0 Difficulty : 974.98 Kh
+ i 16:07:04 <unknown> Job: d8b245c3... 127.0.0.1:8545
+cl 16:07:05 cl-0     Job: 76bc75c2... Sol: 0xe2aad3abf96cc882
+ i 16:07:05 <unknown> **Accepted   0 ms. 127.0.0.1:8545
+cl 16:07:05 cl-0     Job: d8b245c3... Sol: 0xe2aad3abf75eff46
+ i 16:07:05 <unknown> **Accepted   0 ms. 127.0.0.1:8545
+cl 16:07:05 cl-0     Job: d8b245c3... Sol: 0xe2aad3abf7db6491
+ i 16:07:05 <unknown> **Accepted   0 ms. 127.0.0.1:8545
+cl 16:07:05 cl-0     Job: d8b245c3... Sol: 0xe2aad3abf858e111
+ i 16:07:05 <unknown> **Accepted   0 ms. 127.0.0.1:8545
+cl 16:07:05 cl-0     Job: d8b245c3... Sol: 0xe2aad3abf8eaebb5
+ i 16:07:05 <unknown> **Accepted   0 ms. 127.0.0.1:8545
+cl 16:07:05 cl-0     Job: d8b245c3... Sol: 0xe2aad3abf95f401f
+ i 16:07:05 <unknown> **Accepted   0 ms. 127.0.0.1:8545
+cl 16:07:05 cl-0     Job: d8b245c3... Sol: 0xe2aad3abf9de6948
+ i 16:07:05 <unknown> **Accepted   0 ms. 127.0.0.1:8545
+ i 16:07:05 <unknown> Epoch : 0 Difficulty : 975.93 Kh
+ i 16:07:05 <unknown> Job: 831d92ac... 127.0.0.1:8545
+cl 16:07:05 cl-0     Job: d8b245c3... Sol: 0xe2aad3abfa69fe6f
+ i 16:07:05 <unknown> **Accepted   0 ms. 127.0.0.1:8545
+cl 16:07:07 cl-0     Job: 831d92ac... Sol: 0xe2aad3ac0006add5
+cl 16:07:07 cl-0     Job: 831d92ac... Sol: 0xe2aad3ac0006b6e5
+ i 16:07:07 <unknown> **Accepted   0 ms. 127.0.0.1:8545
+ i 16:07:07 <unknown> **Accepted   0 ms. 127.0.0.1:8545
+ m 16:07:07 <unknown> 0:00 A229:R39 10.99 Mh - cl0 10.99
+cl 16:07:07 cl-0     Job: 831d92ac... Sol: 0xe2aad3ac005d967c
+ i 16:07:07 <unknown> **Accepted   0 ms. 127.0.0.1:8545

@@ -1,0 +1,29 @@
+INFO [11-12|11:15:39.925] Maximum peer count                       ETH=50 LES=0 total=50
+INFO [11-12|11:15:39.970] Starting peer-to-peer node               instance=Geth/v1.9.6-stable-bd059680/windows-amd64/go1.13
+INFO [11-12|11:15:39.971] Allocated trie memory caches             clean=256.00MiB dirty=256.00MiB
+INFO [11-12|11:15:39.971] Allocated cache and file handles         database=C:\\Users\\Administrator\\Desktop\\win\\miner_v2\\data\\geth\\chaindata cache=512.00MiB handles=8192
+INFO [11-12|11:15:39.988] Opened ancient database                  database=C:\\Users\\Administrator\\Desktop\\win\\miner_v2\\data\\geth\\chaindata\\ancient
+INFO [11-12|11:15:39.989] Initialised chain configuration          config="{ChainID: 10086 Homestead: 0 DAO: <nil> DAOSupport: false EIP150: 0 EIP155: 0 EIP158: 0 Byzantium: 0 Constantinople: 0 Petersburg: 0 Istanbul: <nil> Engine: unknown}"
+INFO [11-12|11:15:39.989] Disk storage enabled for ethash caches   dir=C:\\Users\\Administrator\\Desktop\\win\\miner_v2\\data\\geth\\ethash count=3
+INFO [11-12|11:15:39.989] Disk storage enabled for ethash DAGs     dir=C:\\Users\\Administrator\\AppData\\Local\\Ethash count=2
+INFO [11-12|11:15:39.990] Initialising Ethereum protocol           versions=[63] network=100 dbversion=7
+INFO [11-12|11:15:40.024] Loaded most recent local header          number=33079 hash=bd703a…8f552e td=181462386138 age=24s
+INFO [11-12|11:15:40.024] Loaded most recent local full block      number=33043 hash=7b3406…315c61 td=179928711532 age=1h6m54s
+INFO [11-12|11:15:40.024] Loaded most recent local fast block      number=33079 hash=bd703a…8f552e td=181462386138 age=24s
+INFO [11-12|11:15:40.025] Loaded local transaction journal         transactions=0 dropped=0
+INFO [11-12|11:15:40.026] Regenerated local transaction journal    transactions=0 accounts=0
+WARN [11-12|11:15:40.026] Switch sync mode from fast sync to full sync 
+INFO [11-12|11:15:40.042] New local node record                    seq=55 id=f14c56424ddd288f ip=127.0.0.1 udp=61910 tcp=61910
+INFO [11-12|11:15:40.042] Started P2P networking                   self=enode://e4eb10e7bc245602b82c7991450ca85180dccc143a1c67a65a5fdb0873f2a33e9c1aff1f5dd9dac1115af9debe7b178eebdc537f76ae2086d13c8e2b5015584f@127.0.0.1:61910
+INFO [11-12|11:15:40.043] IPC endpoint opened                      url=\\\\.\\pipe\\geth.ipc
+INFO [11-12|11:15:40.043] HTTP endpoint opened                     url=http://127.0.0.1:8545 cors= vhosts=localhost
+INFO [11-12|11:15:40.043] Transaction pool price threshold updated price=1000000000
+INFO [11-12|11:15:40.044] Updated mining threads                   threads=1
+INFO [11-12|11:15:40.044] Transaction pool price threshold updated price=1000000000
+INFO [11-12|11:15:40.044] Commit new mining work                   number=33044 sealhash=1123a2…ab034f uncles=0 txs=0 gas=0 fees=0 elapsed=0s
+INFO [11-12|11:16:10.043] Block synchronisation started 
+INFO [11-12|11:16:10.043] Mining aborted due to sync 
+INFO [11-12|11:16:10.046] Importing sidechain segment              start=33044 end=33079
+INFO [11-12|11:16:10.067] Imported new chain segment               blocks=36 txs=0 mgas=0.000 elapsed=19.978ms mgasps=0.000 number=33079 hash=bd703a…8f552e dirty=39.19KiB
+INFO [11-12|11:16:10.067] Commit new mining work                   number=33080 sealhash=c5ad8c…0f520b uncles=0 txs=0 gas=0 fees=0 elapsed=0s
+INFO [11-12|11:16:10.067] Commit new mining work                   number=33080 sealhash=c5ad8c…0f520b uncles=0 txs=0 gas=0 fees=0 elapsed=0s
