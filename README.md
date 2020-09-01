@@ -1,3 +1,9 @@
+# 如果编译发生错误
+
+**1. jason-cn-dev：将该字段改成：ali-pay**
+
+**2. ieth：将该字段改成：eth-miner-windows**
+
 # 以太坊单机挖矿客户端
 
 ## 编译说明
